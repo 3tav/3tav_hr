@@ -69,7 +69,7 @@
 					<div id="sitemap__header">
 						<h1>XML mapa web-stranice</h1>
 						<p>Ovu XML mapu web-stranice generira WordPress kako bi vaš sadržaj bio vidljiviji na tražilicama.</p>
-						<p><a href="https://www.sitemaps.org/">Saznaj više o XML mapama web-stranice</a></p>
+						<p><a href="https://www.sitemaps.org/">Saznaj više o XML mapama web-stranice.</a></p>
 					</div>
 					<div id="sitemap__content">
 						<p class="text">Broj URL-ova u ovoj XML mapi web-stranice: <xsl:value-of select="count( sitemap:sitemapindex/sitemap:sitemap )" />.</p>
